@@ -1,0 +1,293 @@
+{
+  "rooms": {
+    "library 2f corner": {
+      "name": "Library 2F Corner",
+      "purpose": "study",
+      "status": "free",
+      "note": "Quiet corner, good for solo focus",
+      "timestamp": 1784960058508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "library 3f group zone": {
+      "name": "Library 3F Group Zone",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "Group project in progress",
+      "timestamp": 1784957178508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "cse building room 301": {
+      "name": "CSE Building Room 301",
+      "purpose": "study",
+      "status": "free",
+      "note": "Whiteboard available",
+      "timestamp": 1784958978508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "cse building room 305": {
+      "name": "CSE Building Room 305",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "Class in session",
+      "timestamp": 1784960418508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "cse building room 402": {
+      "name": "CSE Building Room 402",
+      "purpose": "study",
+      "status": "free",
+      "note": "",
+      "timestamp": 1784952138508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "eee building room 210": {
+      "name": "EEE Building Room 210",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "Lab session running",
+      "timestamp": 1784959698508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "eee building room 214": {
+      "name": "EEE Building Room 214",
+      "purpose": "study",
+      "status": "free",
+      "note": "Power outlets on every desk",
+      "timestamp": 1784954658508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "business faculty room 108": {
+      "name": "Business Faculty Room 108",
+      "purpose": "study",
+      "status": "free",
+      "note": "Good for presentations practice",
+      "timestamp": 1784957898508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "business faculty room 112": {
+      "name": "Business Faculty Room 112",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "",
+      "timestamp": 1784949618508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "central library silent zone": {
+      "name": "Central Library Silent Zone",
+      "purpose": "study",
+      "status": "free",
+      "note": "No talking allowed, great for exams prep",
+      "timestamp": 1784960778508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "central library discussion room 1": {
+      "name": "Central Library Discussion Room 1",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "Booked for thesis defense practice",
+      "timestamp": 1784956098508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "central library discussion room 2": {
+      "name": "Central Library Discussion Room 2",
+      "purpose": "study",
+      "status": "free",
+      "note": "Glass room, holds 6 people",
+      "timestamp": 1784958618508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "math building room 15": {
+      "name": "Math Building Room 15",
+      "purpose": "study",
+      "status": "free",
+      "note": "",
+      "timestamp": 1784946378508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "architecture studio a": {
+      "name": "Architecture Studio A",
+      "purpose": "study",
+      "status": "occupied",
+      "note": "Model-making in progress",
+      "timestamp": 1784959338508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "architecture studio b": {
+      "name": "Architecture Studio B",
+      "purpose": "study",
+      "status": "free",
+      "note": "Large tables, good for model work",
+      "timestamp": 1784957538508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "student lounge — block a": {
+      "name": "Student Lounge — Block A",
+      "purpose": "rest",
+      "status": "free",
+      "note": "Couches, good for napping",
+      "timestamp": 1784960418508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "student lounge — block b": {
+      "name": "Student Lounge — Block B",
+      "purpose": "rest",
+      "status": "occupied",
+      "note": "Crowded during lunch hour",
+      "timestamp": 1784960058508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "rooftop garden deck": {
+      "name": "Rooftop Garden Deck",
+      "purpose": "rest",
+      "status": "free",
+      "note": "Fresh air, hammock chairs",
+      "timestamp": 1784955378508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "cafeteria annex seating": {
+      "name": "Cafeteria Annex Seating",
+      "purpose": "rest",
+      "status": "occupied",
+      "note": "",
+      "timestamp": 1784958258508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "tsc common room": {
+      "name": "TSC Common Room",
+      "purpose": "rest",
+      "status": "free",
+      "note": "TV + couches",
+      "timestamp": 1784953938508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "gymnasium lobby benches": {
+      "name": "Gymnasium Lobby Benches",
+      "purpose": "rest",
+      "status": "free",
+      "note": "Quiet after morning classes",
+      "timestamp": 1784950338508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "prayer hall rest corner": {
+      "name": "Prayer Hall Rest Corner",
+      "purpose": "rest",
+      "status": "occupied",
+      "note": "",
+      "timestamp": 1784956818508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "hostel common room": {
+      "name": "Hostel Common Room",
+      "purpose": "rest",
+      "status": "free",
+      "note": "Board games available",
+      "timestamp": 1784959698508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    },
+    "amphitheatre shade benches": {
+      "name": "Amphitheatre Shade Benches",
+      "purpose": "rest",
+      "status": "free",
+      "note": "Best in the afternoon",
+      "timestamp": 1784941338508,
+      "updatedBy": "demo@campusnow.app",
+      "reports": []
+    }
+  },
+  "cafeteria": {
+    "weeklyMenu": {
+      "Saturday": {
+        "text": "Rice, Beef bhuna, Dal, Mixed vegetables, Salad",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Sunday": {
+        "text": "Rice, Chicken curry, Dal, Aloo bhaji, Salad",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Monday": {
+        "text": "Khichuri, Egg curry, Beef curry, Papad",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Tuesday": {
+        "text": "Rice, Fish curry (Rui), Dal, Shak bhaji",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Wednesday": {
+        "text": "Biryani (Chicken), Borhani, Salad",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Thursday": {
+        "text": "Rice, Mutton curry, Dal, Mixed vegetables",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      },
+      "Friday": {
+        "text": "Polao, Roast chicken, Dal, Salad, Firni",
+        "updatedAt": 1784939538508,
+        "updatedBy": "demo@campusnow.app"
+      }
+    },
+    "queue": {
+      "level": "medium",
+      "timestamp": 1784959698508,
+      "updatedBy": "demo@campusnow.app"
+    },
+    "comments": [
+      {
+        "message": "Biryani on Wednesday is always worth the wait!",
+        "email": "demo@campusnow.app",
+        "timestamp": 1784943138508
+      }
+    ],
+    "ratings": {
+      "demo@campusnow.app": 4
+    }
+  },
+  "users": {
+    "demo@campusnow.app": {
+      "favorites": [
+        "library 2f corner"
+      ],
+      "streak": 1,
+      "lastReportDate": "2026-07-25"
+    },
+    "x@test.com": {
+      "favorites": [],
+      "streak": 1,
+      "lastReportDate": "2026-07-25"
+    },
+    "t@t.com": {
+      "favorites": [],
+      "streak": 1,
+      "lastReportDate": "2026-07-25"
+    }
+  }
+}
